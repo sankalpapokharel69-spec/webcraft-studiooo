@@ -1,0 +1,11 @@
+main = "worker/index.js"
+compatibility_date = "2026-10-01"
+name = "webcraftecommerce"
+[[d1_databases]]
+binding = "webcraft_db"
+database_name = "webcraft-db"
+database_id = "68faeab9-4bec-41c4-820d-24a121e10d0e"
+
+[[kv_namespaces]]
+binding = "RATE_LIMIT"
+id = "771f93ca920845c0a5ef1fdcfbe8d84f"

@@ -1,0 +1,3 @@
+# Cloudflare Pages proxies /api/* to your Worker — keeps cookies first-party.
+# Replace the URL below with YOUR worker URL (from `npx wrangler deploy` output).
+/api/* https://webcraftecommerce.crushxyt1.workers.dev/api/ 200
